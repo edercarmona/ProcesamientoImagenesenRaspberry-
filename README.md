@@ -1,13 +1,13 @@
-ProcesamientoImagenesenRaspberry-
+##ProcesamientoImagenesenRaspberry-
 Procesamiento de Imágenes en Raspberry PI con OpenCV y Python
 
-Introducción a Raspberry PI.
+1. Introducción a Raspberry PI.
 1.1.	Historia de Raspberry PI.
 1.2.	Modelos.
 1.3.	Explorando Raspberry PI.
 1.4.	Comparativa con otras Dev Boards.
 1.5.	Inteligencia Artificial en Rapberry PI.
-Que se Necesita.
+2. Que se Necesita.
 2.1.	Software
 2.2.	Hardware
 Configuraciones Previas
