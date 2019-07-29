@@ -1,8 +1,7 @@
 # ProcesamientoImagenesenRaspberry-
-Procesamiento de Imágenes en Raspberry PI con OpenCV y Python
+**Procesamiento de Imágenes en Raspberry PI con OpenCV y Python**
 
-Procesamiento de Imágenes en Raspberry PI con OpenCV y Python.
-Día uno:
+**Día uno:**
 1.	Introducción a Raspberry PI.
   1.1.	Historia de Raspberry PI.
   1.2.	Modelos.
@@ -42,13 +41,14 @@ Dia 2.
   7.4.	Detección de Rostros en tiempo Real.
   7.5.	Entrenar OpenCV en Detección de Objetos
  
-Requerimientos Previos.
-  1.	Raspberry Pi 3B ó 3B+ 
-  2.	MicroSD 32 GB.
-  3.	Raspberry Pi Camera Board (V1.3, V2.1, V2.1 NoIR).
-  4.	Conexión a Internet.
-  5.	Teclado, Mouse (USB o Inalámbrico).
-  6.	Monitor HDMI
-  7.	Contar con Raspbian Buster with desktop and recommended software instalado en la MicroSD.
-  8.	Conocimientos básicos de Linux.
-  9.	Conocimientos básicos de Python.
+**Requerimientos Previos**.
+- Raspberry Pi 3B ó 3B+ 
+- MicroSD 32 GB.
+- Raspberry Pi Camera Board (V1.3, V2.1, V2.1 NoIR).
+- Conexión a Internet.
+- Teclado, Mouse (USB o Inalámbrico).
+- Monitor HDMI
+- Contar con Raspbian Buster with desktop and recommended software instalado en la MicroSD.
+- Conocimientos básicos de Linux.
+- Conocimientos básicos de Python.
+- Conociminetos Basicos de Git
