@@ -1,6 +1,6 @@
 #!/bin/bash
 ######################################################
-#                libreraias.sh
+#                librerias.sh
 ######################################################
 echo "---------herramientas de Desarrollador----------"
 sudo apt -y install build-essential cmake unzip pkg-config
