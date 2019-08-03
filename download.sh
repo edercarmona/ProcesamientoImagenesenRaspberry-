@@ -1,4 +1,7 @@
 #!/bin/bash
+######################################################
+#                librerias.sh
+######################################################
 echo "---------Obteniendo OpenCV----------"
 cd ~
 wget -O opencv.zip https://github.com/opencv/opencv/archive/4.0.0.zip
