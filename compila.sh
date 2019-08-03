@@ -1,4 +1,7 @@
 #!/bin/bash
+##########################################
+#               compila.sh
+##########################################
 echo "---------Compilando OpenCV----------"
 echo date
 sudo apt install python3-pip
