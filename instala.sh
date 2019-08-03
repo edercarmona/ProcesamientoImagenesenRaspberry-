@@ -1,6 +1,6 @@
 #!/bin/bash
 ##########################################
-#               compila.sh
+#               instala.sh
 ##########################################
 echo "---------Instalando OpenCV----------"
 sudo make install
