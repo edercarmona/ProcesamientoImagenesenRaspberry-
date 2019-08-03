@@ -3,7 +3,7 @@
 #               compila.sh
 ##########################################
 echo "---------Compilando OpenCV----------"
-echo date
+echo $(date)
 sudo apt install python3-pip
 pip install --upgrade pip
 pip install numpy
@@ -20,4 +20,4 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
     -D INSTALL_PYTHON_EXAMPLES=OFF \
     -D BUILD_EXAMPLES=OFF ..
 make
-echo date
+echo $(date)
