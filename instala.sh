@@ -3,6 +3,7 @@
 #               instala.sh
 ##########################################
 echo "---------Instalando OpenCV----------"
+cd ~/opencv/build
 sudo make install
 sudo ldconfig
 cd /usr/lib/python3/dist-packages/
