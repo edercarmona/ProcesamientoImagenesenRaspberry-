@@ -40,4 +40,9 @@ output = image.copy()
 cv2.line(output, (10, 10), (200, 200), (0, 0, 255), 5)
 cv2.imshow("Line", output)
 
+output = image.copy()
+cv2.putText(output, "Raspberry PI", (10, 25), 
+cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
+cv2.imshow("Text", output)
+
 cv2.waitKey(0)
