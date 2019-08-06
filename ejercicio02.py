@@ -1,5 +1,5 @@
 #########################################
-#    ejercici01.py
+#    ejercici02.py
 #Captura secuencia de imagen desde Python
 #########################################
 
