@@ -1,3 +1,6 @@
+###############################
+#         ejercicio07.py
+################################
 import numpy as np
 import cv2
 
@@ -11,8 +14,8 @@ while (cap.isOpened()):
         # trabaja sobre un frame
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
         #muestra en pantalla el frame resultante 
-        cv2.putText(gray, "Raspberry PI", (10, 25),cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
-        cv2.imshow('frame', gray)
+        cv2.putText(gray, "Raspberry PI", (10, 25),cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2)
+        cv2.imshow('Video', gray)
         # Exit?
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
@@ -20,4 +23,5 @@ while (cap.isOpened()):
         break
 cap.release()
 cv2.destroyAllWindows()
+
 

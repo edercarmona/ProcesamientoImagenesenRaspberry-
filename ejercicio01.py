@@ -4,7 +4,6 @@
 #################################
 import picamera
 import time
-
 camara = picamera.PiCamera()
 camara.resolution=(1027,768)
 camara.start_preview()

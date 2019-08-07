@@ -16,6 +16,6 @@ image_copy = cv2.imread(image_copy_path)
 
 #muestra imagen en  en Pantalla 
 cv2.imshow('Original', image)
-cv2.imshow('Copy', image_copy)
+cv2.imshow('Copia', image_copy)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
